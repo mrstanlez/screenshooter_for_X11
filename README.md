@@ -34,6 +34,8 @@ gcc main.c -o screenshot_app `pkg-config --cflags --libs gtk+-3.0 gdk-x11-3.0 x1
 ./screenshot_app
 
 <br>
+<br>
+
 ### Author
 Stanislav Petrek, 19. may 2026
 
