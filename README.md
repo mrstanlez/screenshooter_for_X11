@@ -16,7 +16,7 @@ There Delay before capturing in seconds.
 And user can choose an options with mouse pointer and/or window border.
 On bottom is a Save to path entry row.
 
-Author
+Author:
 Stanislav Petrek
 
 Thank you
